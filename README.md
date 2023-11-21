@@ -1,9 +1,13 @@
-# CS611-Assignment 5
+# CS611-Assignment 5: Legends of Valor
 
 ## Legend of Valor
 Name: Boyang Liu  
 Email: liubyfly@bu.edu  
 Student ID: U54290758
+
+Name: Muyulu  
+Email:  
+Student ID:  
 
 ## Files
 ```
@@ -96,8 +100,7 @@ Student ID: U54290758
 
 
 ## How to compile and run
-1. Navigate to the directory "liubyfly@csa2.bu.edu:~/cs611/hw4/"
-2. Put the directory like this:
+1. Put the directory like this:
    ```
    |-- root
       |-- Legends_Monsters_and_Heroes
@@ -107,8 +110,8 @@ Student ID: U54290758
          |-- Main
          |-- ...
    ```
-3. Go to the root directory
-4. Run the following instructions:  
+2. Navigate to the root directory
+3. Run the following instructions:  
    mkdir out  
    javac src/*.java -d out  
    java -cp ./out Main
