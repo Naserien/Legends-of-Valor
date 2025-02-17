@@ -1,5 +1,8 @@
 # Legends of Valor
 
+## UML
+![UML](./images/UML.png)
+
 ## Files
 ```
 |-- Main
